@@ -18,10 +18,10 @@ r.SceneColorFringe.Max=0
 r.SceneColorFringeQuality=0
 ```
 
-## :heavy_exclamation_mark: Requirements
+## :heavy_exclamation_mark: Requisitos
 * Nenhum
 
-## :book: Optional Utilities
+## :book: Utilitários Opcionais
 1. Pode ser configurado no In Game Menu
 
 ## :octocat: Créditos
