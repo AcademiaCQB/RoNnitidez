@@ -14,10 +14,12 @@ Engine.ini Caminho -> C:\Users\(Seu nome de usuário do Windows)\AppData\Local\R
 ```
 ## :heavy_exclamation_mark: Requirements
 * Nenhum
-
+```bash
+```
 ## :book: Optional Utilities
 1. Pode ser configurado no In Game Menu
-
+```bash
+```
 ## :octocat: Créditos
 1. Aldo Reine - https://bit.ly/pmcacademy 
 ```
