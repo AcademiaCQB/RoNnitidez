@@ -29,4 +29,5 @@ r.SceneColorFringeQuality=0
 ## :octocat: Créditos
 Aldo Reine - https://bit.ly/pmcacademy
 
-[Repositório](https://github.com/PMCAcademy)
+[PMC Academy - Discord](https://bit.ly/pmcacademy)
+[PMC Academy - Repositório](https://github.com/PMCAcademy)
