@@ -10,7 +10,7 @@ Esse script melhora a nitidez do jogo e reduz o efeito granulado, funcionando no
 ## :book: Instalação
 Cole essas variáveis ​​​​diretamente em Engine.ini
 
-Engine.ini Caminho -> C:\Users\(Seu nome de usuário do Windows)\AppData\Local\ReadyOrNot\Saved\Config\WindowsNoEditor\Engine.ini
+Caminho -> C:\Users\(Seu nome de usuário do Windows)\AppData\Local\ReadyOrNot\Saved\Config\WindowsNoEditor\Engine.ini
 
 ```bash
 [SystemSettings]
