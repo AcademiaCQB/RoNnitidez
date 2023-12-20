@@ -22,6 +22,5 @@ Engine.ini Caminho -> C:\Users\(Seu nome de usuário do Windows)\AppData\Local\R
 ```
 ## :octocat: Créditos
 1. Aldo Reine - https://bit.ly/pmcacademy 
-```
-☆ Repositório (https://github.com/PMCAcademy) ☆
+☆ Repositório - https://github.com/PMCAcademy ☆
 ```
