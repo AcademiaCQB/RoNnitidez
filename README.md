@@ -21,7 +21,5 @@ Engine.ini Caminho -> C:\Users\(Seu nome de usuário do Windows)\AppData\Local\R
 ```bash
 ```
 ## :octocat: Créditos
-1. Aldo Reine - https://bit.ly/pmcacademy
-```
-☆ Repositório - https://github.com/PMCAcademy ☆
-```
+Aldo Reine - https://bit.ly/pmcacademy
+Repositório - https://github.com/PMCAcademy
