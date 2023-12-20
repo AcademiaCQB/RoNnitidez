@@ -10,7 +10,6 @@ Esse script melhora a nitidez do jogo e reduz o efeito granulado, funcionando no
 ```bash
 Cole essas variáveis ​​​​diretamente em Engine.ini
 Engine.ini Caminho -> C:\Users\(Seu nome de usuário do Windows)\AppData\Local\ReadyOrNot\Saved\Config\WindowsNoEditor\Engine.ini
-```bash
 ```
 ## :heavy_exclamation_mark: Requirements
 * Nenhum
@@ -23,4 +22,5 @@ Engine.ini Caminho -> C:\Users\(Seu nome de usuário do Windows)\AppData\Local\R
 
 ## :octocat: Créditos
 Aldo Reine - https://bit.ly/pmcacademy
+```
 Repositório - https://github.com/PMCAcademy
